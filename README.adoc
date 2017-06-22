@@ -1,4 +1,4 @@
-### steps
+## steps
 1. do configurations as `pom.xml`    
 2. create `proto` file under `src/main/proto`        
 3. generate java source file with command `mvn clean:clean protobuf:compile`                 
